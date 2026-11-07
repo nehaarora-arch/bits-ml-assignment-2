@@ -1,0 +1,5 @@
+decision_tree.pkl
+logistic_regression.pkl
+naive_bayes.pkl
+support_vector_machine.pkl
+knn.pkl
