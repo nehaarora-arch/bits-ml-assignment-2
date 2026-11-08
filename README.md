@@ -10,7 +10,7 @@ To build, evaluate, and deploy multiple classification models using an end-to-en
 * **Target Variable:** Binary classification task predicting student pass/fail status based on final grade (`G3`).
 
 ## c. GitHub Repository Link
-[Insert your public GitHub Repository URL here][cite: 3]
+https://github.com/nehaarora-arch/bits-ml-assignment-2
 
 ## d. Models Used & Evaluation Comparison Table
 
