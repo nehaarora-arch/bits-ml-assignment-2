@@ -7,7 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1Zac7VnnR1qmK6SJZ_80Uk4UvFmOCeUxV
 """
 
-!pip install scikit-learn
+
+#!pip install scikit-learn
 
 import pandas as pd
 import numpy as np
