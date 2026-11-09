@@ -137,7 +137,7 @@ required_libraries = [
 ]
 
 # Generate requirements.txt with exact current versions
-open('requirements.txt', 'w') as f:
+'''open('requirements.txt', 'w') as f:
     for lib in required_libraries:
         try:
             version = pkg_resources.get_distribution(lib).version
@@ -145,4 +145,4 @@ open('requirements.txt', 'w') as f:
         except pkg_resources.DistributionNotFound:
             f.write(f"{lib}\n")
 
-print("requirements.txt created successfully!")
+print("requirements.txt created successfully!")'''
