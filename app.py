@@ -122,7 +122,7 @@ for name, model in models.items():
 results_df = pd.DataFrame(results)
 print(results_df)
 
-import pkg_resources
+#import pkg_resources
 
 # List of required libraries for your ML assignment and Streamlit app
 required_libraries = [
