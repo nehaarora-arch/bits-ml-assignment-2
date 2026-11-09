@@ -133,10 +133,11 @@ required_libraries = [
     'matplotlib',
     'seaborn',
     'joblib'
+    'setuptools'
 ]
 
 # Generate requirements.txt with exact current versions
-with open('requirements.txt', 'w') as f:
+open('requirements.txt', 'w') as f:
     for lib in required_libraries:
         try:
             version = pkg_resources.get_distribution(lib).version
